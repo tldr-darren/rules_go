@@ -118,8 +118,8 @@ go_repository(
 go_repository(
     name = "org_golang_x_oauth2",
     importpath = "golang.org/x/oauth2",
-    sum = "h1:3B43BWw0xEBsLZ/NO1VALz6fppU3481pik+2Ksv45z8=",
-    version = "v0.0.0-20210628180205-a41e5a781914",
+    sum = "h1:OSnWWcOd/CtWQC2cYSBgbTSJv3ciqd8r54ySIW2y3RE=",
+    version = "v0.0.0-20220411215720-9780585627b5",
 )
 
 gazelle_dependencies()
